@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ESPCNC)(type KiCad)(uri ${KIPRJMOD}/espcnc.pretty)(options "")(descr ""))
+  (lib (name hardware)(type KiCad)(uri ${KIPRJMOD}/all.pretty/hardware.pretty)(options "")(descr ""))
+  (lib (name all)(type KiCad)(uri ${KIPRJMOD}/all.pretty)(options "")(descr ""))
+)
